@@ -1,6 +1,8 @@
 # LAME
 Linux Administration Made Easy
 
+This was inspired by the book here: http://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/index.html
+
 This is a journal on how I learn (still learning) to do Linux Administrations.
 This journal is based on my own experience as well as the works/blogs/knowledge of others around the world.
 
