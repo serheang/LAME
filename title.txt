@@ -1,0 +1,6 @@
+---
+title: Linux Admin Made Easy (LAME)
+author: Ser Heang TAN aka setan
+rights:  Creative Commons Non-Commercial Share Alike 3.0
+language: en-US
+...
