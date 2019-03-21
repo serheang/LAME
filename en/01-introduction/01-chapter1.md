@@ -8,3 +8,7 @@ Should I start with Linux Filesystems layout?  In the modern day, with Terrabyte
 So, where to begin?  That's the question!
 
 Maybe I should start with just a simple explaination of what is Linux?
+
+Linux is an opensource Operating System developed by Linus Torvalds back in 1991 for his exploration into operating systems as his university studies.  You can find more history info in regards of Linux on the Internet.  Here is a wikipedia link for Linux History https://en.wikipedia.org/wiki/Linux if you are interested to know.
+
+Linux evolved for the past 28 years, had become an Operating System not only use for study, research and hobbist.  It had evovled
